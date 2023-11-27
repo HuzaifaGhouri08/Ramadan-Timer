@@ -4,7 +4,7 @@ let minutes = document.getElementById("min");
 let seconds = document.getElementById("sec");
 
 function timer(){
-let futureDate = new Date ("22 march 2023 06:44 pm");
+let futureDate = new Date ("10 march 2024 06:44 pm");
 let currentDate = new Date();
 let remaining = futureDate - currentDate;
 
